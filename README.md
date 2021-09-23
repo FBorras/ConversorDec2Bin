@@ -1,4 +1,4 @@
-#CONVERSOR DE DECIMAL A BINARIO
+# CONVERSOR DE DECIMAL A BINARIO
 
 Este código permite que el programa realice conversiones de números **decimales** a **binarios**.
 
